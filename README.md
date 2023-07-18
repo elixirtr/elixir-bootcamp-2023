@@ -91,6 +91,7 @@ Başvuru için formu eksiksiz doldurarak göndermeniz gerekmektedir [Başvuru Li
 ### Süresi
 
 Eğitim Programı 10 Eylül - 20 Kasım arasında 8 hafta olarak planlanmıştır. Bitiş tarihi esneklik gösterebilir.
+Eğitim haftasonları(cumartesi ve pazar) 1 saat 30 dk, akşam 18:00 - 19:30 arası olacaktır.
 
 ## Eğitmenler ve İletişim
 
