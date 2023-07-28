@@ -20,7 +20,7 @@
 
 Elixir: Eşzamanlı, yüksek hata toleransına sahip Erlang VM üzerine inşa edilmiş fonksiyonel
 ve dinamik bir programlama dilidir. Elixir Türkiye Topluluğu tarafından gerçekleştirilen
-2023 Sonbahar dönemi bootcamp'i, Türkçe konuşan programcılar arasında Elixir'i, fonksiyonel
+2023 Sonbahar dönemi bootcamp'i, Türkiyede ki programcılar arasında Elixir'i, fonksiyonel
 programlamayı ve topluluğa katılımı yaygınlaştırmayı hedefler.
 
 Elixir Bootcamp'i geçmişte hangi dili yazmış olursanız olun, yazılım geliştirmede ufkunuzu açacağı ve teknik tecrübenizi
@@ -50,7 +50,7 @@ Başvuru için formu eksiksiz doldurarak göndermeniz gerekmektedir [Başvuru Li
 
 * Başvuruların kapanmasına müteakip(20 Ağustos), seçim süreci başlar. 1 Eylül itibari ile
   seçim süreci sonlanır ve seçilen katılımcılara mail ile bilgilendirme yapılır.
-* Kontenjan 15 kişi ile sınırlıdır.
+* Kontenjan 25 kişi ile sınırlıdır.
 
 ## Eğitim Programı ve Süresi
 
