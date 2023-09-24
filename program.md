@@ -17,6 +17,9 @@ Her hafta aldığımız derslerin video kayıtlarını, slaytları ve derslerle 
 
 **Slaytlar**: -
 
+**Ek kaynaklar**:
+- [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
+
 ## 4. Basic types ve Modüller, Collections ve Enum, Pattern Matching ve Functions (24.09.2023)
 **Video**: -
 
