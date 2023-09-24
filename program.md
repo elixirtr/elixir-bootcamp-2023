@@ -5,21 +5,24 @@ Her hafta aldığımız derslerin video kayıtlarını, slaytları ve derslerle 
 ## 1. Elixir’e giriş (10.09.2023)
 **Video**: https://www.youtube.com/watch?v=QUlH04b-rng
 
-**Slaytlar**: <a href="slides/Operating_System.pptx" download>Operating_System.pptx</a>
+**Slaytlar**: [Operating_System.pptx](slides/Operating_System.pptx)
 
 ## 2. İşletim Sistemlerine Giriş (16.09.2023)
-**Video**:
+**Video**: -
 
-**Slaytlar**:
+**Slaytlar**: -
 
 ## 3. Fonksiyonel Programlamaya Giriş (23.09.2023)
-**Video**:
+**Video**: - 
 
-**Slaytlar**:
+**Slaytlar**: -
 
 ## 4. Basic types ve Modüller, Collections ve Enum, Pattern Matching ve Functions (24.09.2023)
-**Video**:
+**Video**: -
 
-**Slaytlar**:
+**Slaytlar**: -
 
 ## 5. Mix ve Documentions (Haftaya)
+**Video**: -
+
+**Slaytlar**: -
