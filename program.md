@@ -5,7 +5,7 @@ Her hafta aldığımız derslerin video kayıtlarını, slaytları ve derslerle 
 ## 1. Elixir’e giriş (10.09.2023)
 **Video**: https://www.youtube.com/watch?v=QUlH04b-rng
 
-**Slaytlar**: 
+**Slaytlar**: <a href="slides/Operating_System.pptx" download>Operating_System.pptx</a>
 
 ## 2. İşletim Sistemlerine Giriş (16.09.2023)
 **Video**:
